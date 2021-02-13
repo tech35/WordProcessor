@@ -15,9 +15,7 @@ Screenshot:
 
 ![ ](https://github.com/tech35/WordProcessor/blob/main/screenshot-wordprocessor.jpg?raw=true)
 
-[My Profile on Reddit](https://reddit.com/user/tech-35/)
-
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+<a href = "https://reddit.com/user/tech35/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 
 [![Gitter](https://badges.gitter.im/tech35/community.svg)](https://gitter.im/tech35/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
